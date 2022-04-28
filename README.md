@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @antoninchadima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Antonín Chadima
+- 👀 I’m interested in Linux, Proxmox, Docker, Gitlab, Nextcloud, Redmine, Nginx, Project management, Knowledge management, Firewalls, Networking 
+- 🌱 I’m currently learning penShift, Ansible and AWX
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-antoninchadima/antoninchadima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: antonin.chadima@gmail.com
