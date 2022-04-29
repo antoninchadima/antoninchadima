@@ -57,6 +57,6 @@ OpenWRT enthusiast
   </ul> 
 </details>
 
-Running ChromeOS (project Brunch) and Manjaro (in LinuxLoops enviroment) on a regular ASUS ZenBook!
-Using NoMachine NX to connect to different desktops on my servers.
-KVM PCIe passthrough pioneer for server and desktop use.
+- Running ChromeOS (project Brunch) and Manjaro (in LinuxLoops enviroment) on a regular ASUS ZenBook!
+- Using NoMachine NX to connect to different desktops on my servers.
+- KVM PCIe passthrough pioneer for server and desktop use.
