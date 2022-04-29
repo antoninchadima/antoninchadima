@@ -20,7 +20,7 @@
 
 **🈺 I'm looking for a job opportunity**
 
-📫 antonin.chadima@gmail.com ☎️ +420 721 805 041 [123-456-7890](tel:1234567890)
+📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
 
 ### I’m currently managing
 
