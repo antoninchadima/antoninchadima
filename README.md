@@ -14,9 +14,7 @@
 
 ---
 
-### Hi
-
-👋 Hi, I’m Antonín Chadima
+### 👋 Hi, I’m Antonín Chadima
 
 - 👀 I’m interested in Linux, Proxmox, Docker, Gitlab, Nextcloud, Redmine, Nginx, Project management, Knowledge management, Firewalls, Networking 
 OpenWRT enthusiast
