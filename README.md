@@ -13,15 +13,13 @@
 </p>
 </br>
 
----
-
 🌱 I’m currently learning Ansible and AWX
 
 💞️ I’m looking to collaborate on ...
 
 📫 How to reach me: antonin.chadima@gmail.com
 
-I am currently managing:
+### I am currently managing:
 
 <details closed>
   <summary>Hosts:</summary>
