@@ -18,7 +18,7 @@
 
 🌱 I’m currently learning Ansible and AWX
 
-**🈺 I'm looking for a job opportunity**
+**🈺 I'm looking for a job opportunity 🈺**
 
 📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
 
