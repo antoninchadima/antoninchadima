@@ -6,8 +6,8 @@ OpenWRT enthusiast
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: antonin.chadima@gmail.com
 
- Direct link rendered image
- https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox?orgId=1&refresh=5s&from=1651194125464&to=1651215725464&panelId=21&width=1000&height=500&tz=Europe%2FPrague
+
+ ![1. Proxmox server](https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox?orgId=1&refresh=5s&from=1651194125464&to=1651215725464&panelId=21&width=1000&height=500&tz=Europe%2FPrague)
 
 <details closed>
   <summary>I currently manage the following systems in a user and server environment:</summary>
