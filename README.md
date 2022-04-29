@@ -22,7 +22,7 @@
 ### I am currently managing:
 
 <details closed>
-  <summary>Hosts:</summary>
+  <summary>Hosts</summary>
 <img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" />
 <img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" />
 <img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" />
@@ -46,7 +46,7 @@
 </details>
 
 <details closed>
-  <summary>Applications:</summary>
+  <summary>Applications</summary>
   <ul>
   <li>Redmine <i>(project management web application)</i></li>
   <li>XWiki <i>(enterprise wiki platform)</i></li>
