@@ -4,4 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: antonin.chadima@gmail.com
 
-print("You found a secret!");
+<details open>
+  <summary>Technologies</summary>
+  <p>...</p>
+</details>
