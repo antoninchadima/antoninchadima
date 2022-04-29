@@ -14,8 +14,6 @@
 
 ---
 
-</br>
-
 ### Hi
 
 👋 Hi, I’m Antonín Chadima
