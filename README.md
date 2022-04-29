@@ -62,7 +62,7 @@
 
 ---
 
-- Running [ChromeOS](https://www.google.com/chromebook/chrome-os/) *(project [Brunch)](https://github.com/sebanc/brunch)* and [Manjaro](https://manjaro.org/) *(in [LinuxLoops](https://github.com/sebanc/linuxloops) enviroment)* on a regular ASUS ZenBook!
+- Running [ChromeOS](https://www.google.com/chromebook/chrome-os/) *(project [Brunch](https://github.com/sebanc/brunch))* and [Manjaro](https://manjaro.org/) *(in [LinuxLoops](https://github.com/sebanc/linuxloops) enviroment)* on a regular ASUS ZenBook!
 - Using NoMachine NX to connect to different desktops on my servers.
 - KVM PCIe passthrough pioneer for server and desktop use.
 - OpenWRT enthusiast, flashing alternative firmwares on any device.
