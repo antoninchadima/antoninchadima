@@ -22,7 +22,7 @@
 
 📫 How to reach me: antonin.chadima@gmail.com
 
-### I am currently managing:
+### I’m currently managing:
 
 <details closed>
   <summary>Hosts</summary>
