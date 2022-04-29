@@ -11,6 +11,10 @@ OpenWRT enthusiast
 ![proxmox3](https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png)
 ![proxmox4](https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png)
 
+<p align="center">
+  <img src="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox?from=1651197285711&to=1651218885711&orgId=1&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague" />
+</p>
+
 <details closed>
   <summary>I currently manage the following systems in a user and server environment:</summary>
   <ul>
