@@ -5,6 +5,8 @@
 - 📫 How to reach me: antonin.chadima@gmail.com
 
 <details open>
-  <summary>Technologies</summary>
-  <p>...</p>
+  <summary>I am currently managing the following applications:</summary>
+  <p>Redmine</p>
+  <p>XWiki</p>
+  <p>Mattermost</p>
 </details>
