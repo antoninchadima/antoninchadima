@@ -17,8 +17,6 @@
 
 ### 🌱 I’m currently learning Ansible and AWX
 
----
-
 💞️ I’m looking to collaborate on ...
 
 ### 📫 How to reach me: antonin.chadima@gmail.com
