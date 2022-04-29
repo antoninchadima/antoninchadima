@@ -9,6 +9,8 @@
   <ul>
   <li>Redmine</li>
   <li>XWiki</li>
-  <li>Mattermost</li>
+  <li>Mattermost (open source platform for communication, collaboration, and workflow orchestration across tools and teams)</li>
+  <li>Nextcloud Hub (on-premises content collaboration platform)</li>
+  <li>ONLYOFFICE Docs <i>(online editor for text documents, spreadsheets, and presentations)</i></li>
   </ul>
 </details>
