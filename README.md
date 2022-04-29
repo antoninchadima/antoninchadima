@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Antonín Chadima
 
-### 🛠️ Some Systems and Tools I Use
+🛠️ Some Systems and Tools I Use
 
 </p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="26px" style="padding-right:10px;" />
@@ -15,11 +15,11 @@
 
 ---
 
-### 🌱 I’m currently learning Ansible and AWX
+🌱 I’m currently learning Ansible and AWX
 
 💞️ I’m looking to collaborate on ...
 
-### 📫 How to reach me: antonin.chadima@gmail.com
+📫 How to reach me: antonin.chadima@gmail.com
 
 <details closed>
   <summary>I currently manage these following hosts:</summary>
