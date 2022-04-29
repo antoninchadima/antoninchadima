@@ -6,8 +6,10 @@ OpenWRT enthusiast
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: antonin.chadima@gmail.com
 
-
- ![1. Proxmox server](https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox.png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve4&from=1651195360572&to=1651216960572&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague)
+![proxmox1](https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png)
+![proxmox2](https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png)
+![proxmox3](https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png)
+![proxmox4](https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png)
 
 <details closed>
   <summary>I currently manage the following systems in a user and server environment:</summary>
@@ -22,7 +24,6 @@ OpenWRT enthusiast
     Proxmox Mail Gateway
     Proxmox Backup Server 
   <li>Nginx / Nginx Proxy Manager  <i>(reverse proxy, SSL termination, client-side certificate authentication, certificate management)</i></li>
-    
   </ul>
 </details>
 <details closed>
