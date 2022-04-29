@@ -24,14 +24,11 @@ OpenWRT enthusiast
 
 <details closed>
   <summary>I currently manage these following hosts:</summary>
-  <ul>
-<li>![proxmox1](https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png)</li>
-<li>![proxmox2](https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png)</li>
-<li>![proxmox3](https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png)</li>
-<li>![proxmox4](https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png)</li>
-  </ul>
+![proxmox1](https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png)
+![proxmox2](https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png)
+![proxmox3](https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png)
+![proxmox4](https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png)
 </details>
-<details closed>
 
 <details closed>
   <summary>I currently manage these following systems in a user and server environment:</summary>
