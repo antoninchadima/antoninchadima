@@ -9,10 +9,10 @@ OpenWRT enthusiast
 <details open>
   <summary>I am currently managing the following applications:</summary>
   <ul>
-  <li>Redmine</li>
-  <li>XWiki</li>
-  <li>Mattermost (open source platform for communication, collaboration, and workflow orchestration across tools and teams)</li>
-  <li>Nextcloud Hub (on-premises content collaboration platform)</li>
+  <li>Redmine <i>(project management web application)</i></li>
+  <li>XWiki <i>(enterprise wiki platform)</i></li>
+  <li>Mattermost <i>(communication, collaboration, and workflow orchestration platform)</i></li>
+  <li>Nextcloud Hub <i>(content collaboration platform)</i></li>
   <li>ONLYOFFICE Docs <i>(online editor for text documents, spreadsheets, and presentations)</i></li>
   </ul>
 </details>
