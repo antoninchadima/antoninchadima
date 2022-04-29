@@ -6,7 +6,7 @@
 
 <details open>
   <summary>I am currently managing the following applications:</summary>
-  <p>Redmine</p>
-  <p>XWiki</p>
-  <p>Mattermost</p>
+  <p>Redmine</br>
+  XWiki</br>
+  Mattermost</p>
 </details>
