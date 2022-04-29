@@ -1,5 +1,5 @@
 
-</br>
+</p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="26px" style="padding-right:10px;" />
@@ -7,6 +7,8 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="apache" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="apache" width="26px" />
+</p>
+
 
 </br>
 👋 Hi, I’m Antonín Chadima
