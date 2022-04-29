@@ -7,8 +7,8 @@
 <details open>
   <summary>I am currently managing the following applications:</summary>
   <ul>
-  </li>Redmine
-  </li>XWiki
-  </li>Mattermost
+  <li>Redmine</li>
+  <li>XWiki</li>
+  <li>Mattermost</li>
   </ul>
 </details>
