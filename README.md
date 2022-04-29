@@ -65,3 +65,4 @@
 - Running ChromeOS *[(project Brunch)](https://github.com/sebanc/brunch)* and Manjaro *[(in LinuxLoops enviroment)](https://github.com/sebanc/linuxloops)* on a regular ASUS ZenBook!
 - Using NoMachine NX to connect to different desktops on my servers.
 - KVM PCIe passthrough pioneer for server and desktop use.
+- OpenWRT enthusiast, flashing this alternative firmware on any device.
