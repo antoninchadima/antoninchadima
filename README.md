@@ -11,15 +11,17 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="apache" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="apache" width="26px" />
 </p>
-
+</br>
 
 ---
 
-- 👀 I’m interested in Linux, Proxmox, Docker, Gitlab, Nextcloud, Redmine, Nginx, Project management, Knowledge management, Firewalls, Networking 
-OpenWRT enthusiast
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: antonin.chadima@gmail.com
+### 🌱 I’m currently learning Ansible and AWX
+
+---
+
+💞️ I’m looking to collaborate on ...
+
+### 📫 How to reach me: antonin.chadima@gmail.com
 
 <details closed>
   <summary>I currently manage these following hosts:</summary>
