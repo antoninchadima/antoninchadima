@@ -30,7 +30,7 @@
 </details>
 
 <details closed>
-  <summary>Systems in a user and server environment:</summary>
+  <summary>Systems</summary>
   <ul>
   <li>Firewall <i>(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)</i></li>
   <li>DNS / DHCP <i>(local network management)</i></li>
