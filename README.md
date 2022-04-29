@@ -7,7 +7,7 @@ OpenWRT enthusiast
 - 📫 How to reach me: antonin.chadima@gmail.com
 
 
- ![1. Proxmox server](https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve4&from=1651195360572&to=1651216960572&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague)
+ ![1. Proxmox server](https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve4&from=1651195360572&to=1651216960572&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague)
 
 <details closed>
   <summary>I currently manage the following systems in a user and server environment:</summary>
