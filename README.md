@@ -11,6 +11,10 @@
 - Network engineer
 - System administrator
 
+🙊 I speak Czech, English and German
+
+🏎️ I have a driver's license B.
+
 **🈺 I'm looking for a job opportunity 🈺**
 
 📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
