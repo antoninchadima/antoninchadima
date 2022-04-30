@@ -113,7 +113,9 @@ IPMI
 </details>
 
 <details closed>
-<summary>Programmed</summary>
+<summary>Programming:</summary>
+
+As team leader of SW developers and a project manager, I did manage several projects.
 
 - Sports Betting platform
 - Matatu
