@@ -55,12 +55,14 @@
    <details closed>
       <summary>IT team:</summary>
       another 6 team members
+      
       - Ondřej Moravec *(senior .NET developer)*
       - David Mádle *(senior Angular developer)*
       - Jan Macík *(senior DB specialist)*
       - Milan Kunderlík *(senior system administrator)*
       - Ondřej Hromádka *(analyst & project manager)*
       - Michal Černošek *(support & tester)*
+      
    </details>
    
    <details closed>
