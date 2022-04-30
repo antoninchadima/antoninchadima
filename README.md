@@ -12,7 +12,7 @@
 
 🤐 I speak Czech, English, and German
 
-🏎️ I have a driver's license B
+🏎️ I have a driver license B
 
 **🈺 I'm looking for a job opportunity 🈺**
 
@@ -79,7 +79,7 @@ I'm in charge of six other people, carrying out administrative work, project man
 - Proxmox Virtual Environment LXC / KVM
 - CEPH
 - InfluxdDB and Grafana
-- click on the image to get online data
+- Click on the image to get online data
 
 <img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="45%" />
 <img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" />
@@ -126,8 +126,8 @@ I take care of and customize application servers.
 - Mattermost *(communication, collaboration, and workflow orchestration platform)*
 - Nextcloud Hub *(content collaboration platform)*
 - ONLYOFFICE Docs *(online editor for text documents, spreadsheets, and presentations)*
-- iRedMail *(mail server platform with webmail, calendar, contacts and activesync)*
-- Wordpress *()*
+- iRedMail *(mail server platform with webmail, calendar, contacts, and ActiveSync)*
+- WordPress *()*
 - Matomo
 - Invoice Ninja
 - Jitsi
@@ -139,7 +139,7 @@ I take care of and customize application servers.
 <details closed>
 <summary>Programming:</summary>
 
-As team leader of SW developers and a project manager, I did manage several projects.
+As a team leader of SW developers and a project manager, I did manage several projects.
 
 - Sports Betting platform
 - Matatu
@@ -148,7 +148,7 @@ As team leader of SW developers and a project manager, I did manage several proj
 - Odds monitoring
 - SSIS ETL
 - SSAS BI
-- Reporting system 
+- Reporting system (.NET back)
 
 </details>
 
@@ -157,11 +157,11 @@ As team leader of SW developers and a project manager, I did manage several proj
 - Running ChromeOS *(using project Brunch)* and Manjaro *(in a LinuxLoops environment)* on a regular [📷 ASUS ZenBook](https://user-images.githubusercontent.com/3483314/166095249-c7ec2b62-d6ee-4898-9903-4e26f9f48d6a.jpg)! *(Thanks to Google, I don't need Hackintosh anymore.)*
 - Using NoMachine NX to connect to different virtualized desktops on my servers.
 - KVM PCIe passthrough pioneer for server and desktop use.
-- OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid little MikroTik router)*.
+- OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid, little MikroTik router)*.
 - IoT and Smart Home guru.
 - Dreaming dreams in PlantUML and Markdown syntax.
 - Author of the punk servers band *([📷 cluster](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) of less than 500USD [📷 servers](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) with SW HA and Ceph)*.
-- Left social media and I'm now using my servers and services instead.
+- Left social media, and I'm now using my servers and services instead.
 - Excited [📷 paddler](https://user-images.githubusercontent.com/3483314/166096886-9b07cf8b-17e1-498a-bf1c-92df7c5010ba.jpg) and [📷 hiker](https://user-images.githubusercontent.com/3483314/166096856-0acc4753-f790-48fc-95f7-5c2ff276b689.jpg).
 
 <p  align="center">
