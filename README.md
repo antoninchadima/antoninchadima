@@ -66,14 +66,12 @@ I'm in charge of six other people, carrying out administrative work, project man
 - Michal Černošek *(support & tester)*
 
 </details>
-
 <details closed>
 <summary>Hardware:</summary>
 
 - the punk servers
 
 </details>
-
 <details closed>
 <summary>Hosts:</summary>
 
@@ -90,20 +88,21 @@ I'm in charge of six other people, carrying out administrative work, project man
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve4&from=1651301914565&to=1651323514565&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png" width="45%" /></a>
 
 </details>
-
 <details closed>
 <summary>Systems:</summary>
+
+I run systems to support the running of applications written by developers and other internally run applications
 
 - Firewall *(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)*
 - DNS / DHCP *(local network management)*
 - Wireguard *(connecting developers and administrators to the server room network)*
 - OpenVPN / IPSec *(interconnection of different server sites with each other)*
-- Proxmox Mail Gateway *()*
-- Proxmox Backup Server *()*
+- Proxmox Mail Gateway *(email security platform )*
+- Bacula / Proxmox Backup Server *(enterprise backup solution)*
 - Zabbix *(network and application monitoring platform)*
 - Nginx / Nginx Proxy Manager  *(reverse proxy, SSL termination, client-side certificate authentication, certificate management)*
 - Docker / Portainer *(application containers / container management system)*
-- Boring Proxy / frp / Zero Tier *()*
+- Boring Proxy / frp / Zero Tier *(reverse proxy and a tunnel manager / application to create and manage virtual software-defined networks to connect more then 500 external devices behind firewalls)*
 - Microsoft SQL Server *(relational database)*
 - MariaDB *(relational database)*
 - PostgreSQL *(relational database)*
@@ -118,7 +117,6 @@ I'm in charge of six other people, carrying out administrative work, project man
 - SSAS BI *(SQL Server Analysis Services)*
 
 </details>
-
 <details closed>
 <summary>Applications:</summary>
 
@@ -130,15 +128,14 @@ I take care of and customize application servers.
 - Nextcloud Hub *(content collaboration platform)*
 - ONLYOFFICE Docs *(online editor for text documents, spreadsheets, and presentations)*
 - iRedMail *(mail server platform with webmail, calendar, contacts, and ActiveSync)*
-- WordPress *()*
-- Matomo
-- Invoice Ninja
-- Jitsi
-- Gitlab
+- WordPress *(content management system )*
+- Matomo *(web analytics application)*
+- Invoice Ninja *(invoicing web application)*
+- Jitsi *(voice, video conferencing and instant messaging applications)*
+- Gitlab *(DevOps software)*
 - Sendy / OpenEMM *(newsletter application / email marketing platform)*
 
 </details>
-
 <details closed>
 <summary>Programming:</summary>
 
