@@ -38,9 +38,9 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="apache" width="40px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="apache" width="40px" />
 </p>
+</br>
+</br>
 
-</br>
-</br>
 
 🌱 I’m currently learning Ansible and AWX
 
