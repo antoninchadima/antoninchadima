@@ -69,7 +69,7 @@ I'm in charge of six other people, carrying out administrative work, project man
 <details closed>
 <summary>Hardware:</summary>
 
-My ultimate hobby is building servers. 
+My ultimate hobby is building servers, testing them, and benchmarking.
 
 - With a very small budget we did manage to make the infrastructure from 1Gb/s ethernet and 10Gb/s SFP+ switches
 - Two independent 1Gb/s switches are used for corosync, another one for IPMI
