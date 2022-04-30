@@ -15,7 +15,9 @@
 
 **🈺 I'm looking for a job opportunity 🈺**
 
-📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
+📫 antonin.chadima@gmail.com
+
+☎️ +420 721 805 041
 
 💬 Ask me about anything [here](https://github.com/antoninchadima/antoninchadima/issues)
 
