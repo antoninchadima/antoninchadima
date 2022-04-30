@@ -105,7 +105,7 @@ I do administer the host's systems running containers and virtual machines.
 <details closed>
 <summary>Systems:</summary>
 
-I run these systems to support the running of applications written by developers or other internally run applications.
+I run these systems to support the applications written by developers or to support other internal applications.
 
 - Firewall *(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)*
 - DNS / DHCP *(local network management)*
