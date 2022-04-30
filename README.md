@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
+<img align="right" src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="50%" />
 
 # 👋 Hi, I’m Antonín Chadima
 
@@ -69,10 +69,10 @@
   CEPH
   InfluxdDB and Grafana
   click on the image to get online data
-<img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="50%" />
-<img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="50%" />
-<img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" width="50%" />
-<img src="https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png" width="45%" />
 </details>
 
 <details closed>
