@@ -88,10 +88,10 @@
 
 ---
 
-- Running [ChromeOS](https://www.google.com/chromebook/chrome-os/) *(using project [Brunch](https://github.com/sebanc/brunch))* and [Manjaro](https://manjaro.org/) *(in [LinuxLoops](https://github.com/sebanc/linuxloops) environment)* on a regular ASUS ZenBook! *(Thank you Google, now I don't need [Hackintosh](https://www.tonymacx86.com/) anymore.)*
+- Running [ChromeOS](https://www.google.com/chromebook/chrome-os/) *(using project [Brunch](https://github.com/sebanc/brunch))* and [Manjaro](https://manjaro.org/) *(in [LinuxLoops](https://github.com/sebanc/linuxloops) environment)* on a regular ASUS ZenBook! *(Thank you Google, I don't need [Hackintosh](https://www.tonymacx86.com/) anymore.)*
 - Using [NoMachine](https://www.nomachine.com/) NX to connect to different desktops on my servers.
 - KVM PCIe passthrough pioneer for server and desktop use.
 - OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid little MikroTik router)*.
 - IoT and Smart Home guru.
 - Author of the punk servers band *([📷 cluster](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) of less then 500USD [📷 servers](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) with SW HA)*.
-- Left social media using my own servers and services instead.
+- Left social media and I'm now using my own servers and services instead.
