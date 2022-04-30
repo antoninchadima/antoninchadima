@@ -1,5 +1,4 @@
 <code>
-
 <img align="right" src="https://c.tenor.com/ZpMn_7kHlz0AAAAC/who-the-hell-are-you-arnold-schwarzenegger.gif" width="50%" />
 
 # 👋 Hi, I’m Antonín Chadima
@@ -64,31 +63,33 @@ I'm in charge of six other people, carrying out administrative work, project man
 - Michal Černošek *(support & tester)*
 
 </details>
-      
+
 <details closed>
 <summary>Hardware:</summary>
 
-      the punk servers
+- the punk servers
 
 </details>
 
 <details closed>
 <summary>Hosts:</summary>
 
-SWITCH configuration
-IPMI
-      Proxmox Virtual Environment
-      CEPH
-      InfluxdDB and Grafana
-      click on the image to get online data
-      <img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="45%" />
-      <img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" />
-      <img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" width="45%" />
-      <img src="https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png" width="45%" />
-   </details>
-   
-   <details closed>
-      <summary>Systems:</summary>
+- SWITCH configuration
+- IPMI
+- Proxmox Virtual Environment
+- CEPH
+- InfluxdDB and Grafana
+- click on the image to get online data
+
+<img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png" width="45%" />
+
+</details>
+
+<details closed>
+<summary>Systems:</summary>
 
 - Firewall *(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)*
 - DNS / DHCP *(local network management)*
@@ -142,5 +143,4 @@ As team leader of SW developers and a project manager, I did manage several proj
 <p  align="center">
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=antoninchadima.antoninchadima&color=00cf00" />
 </p>
-
 </code>
