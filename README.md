@@ -6,8 +6,8 @@
 - IT project manager
 - Systems analyst
 - HW technician
-- System administrator
 - Network engineer
+- System administrator
 
 🛠️ Some Systems and Tools I Use:
 </p>
