@@ -21,27 +21,31 @@
 
 ## 🛠️ Some Systems and Tools I Use:
 
+*(alphabetically)*
+
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" align="left" alt="linux" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" alt="redis" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="apache" width="40px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="apache" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" align="left" alt="linux" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" align="left" alt="linux" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" align="left" alt="linux" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" align="left" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" align="left" width="40px" />
 </p>
+</br>
+</br>
+</br>
 
-
-
-
+---
 
 🌱 I’m currently learning Ansible and AWX
 
@@ -108,4 +112,4 @@
 - IoT and Smart Home guru.
 - Author of the punk servers band *([📷 cluster](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) of less then 500USD [📷 servers](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) with SW HA and Ceph)*.
 - Left social media and I'm now using my own servers and services instead.
-- Excited 📷 paddler and 📷 hiker.
+- Excited [📷 paddler](https://user-images.githubusercontent.com/3483314/166096886-9b07cf8b-17e1-498a-bf1c-92df7c5010ba.jpg) and [📷 hiker](https://user-images.githubusercontent.com/3483314/166096856-0acc4753-f790-48fc-95f7-5c2ff276b689.jpg).
