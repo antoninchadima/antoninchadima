@@ -15,7 +15,7 @@
 
 🤐 I speak Czech, English, and German
 
-🏎️ I have a driver license B
+🏎️ I have a driver's license B
 
 **🈺 I'm looking for a job opportunity 🈺**
 
@@ -70,17 +70,18 @@ I'm in charge of six other people, carrying out administrative work, project man
 <summary>Hardware:</summary>
 
 - the punk servers
+- SWITCH configuration
+- IPMI
 
 </details>
 <details closed>
 <summary>Hosts:</summary>
 
-- SWITCH configuration
-- IPMI
-- Proxmox Virtual Environment LXC / KVM
-- CEPH
-- 
-- do you want to see some live data of my servers? **Click on the images to get online data!** *(it is done using InfluxDB and Grafana)*
+- Servers are arranged in high availability cluster using Proxmox Virtual Environment
+- Servers are using Ceph storage in a 40Gb/s QSFP+ mesh network
+- Virtual servers are using LXC containers and KVM virtual machines
+- Do you want to see some live data from my servers?
+- **Click on the images to get online data!** *(visualization is using InfluxDB and Grafana)*
 
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve1&from=1651301693577&to=1651323293577&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="45%" /></a>
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve2&from=1651301693577&to=1651323293577&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" /></a>
@@ -145,7 +146,7 @@ As a team leader of SW developers and a project manager, I did manage several pr
 - Sports Betting platform
 - Matatu *(ugandian card game)*
 - MOT *(desktop and mobile app for managing hardware on branches and repair workflow)*
-- Virtual Soccer *(virtual sport betting)*
+- Virtual Soccer *(virtual sports betting)*
 - Odds monitoring *(adjusting odds)*
 - SSIS ETL *(SQL Server Integration Services)*
 - SSAS BI *(SQL Server Analysis Services)*
