@@ -100,22 +100,22 @@ I'm in charge of six other people, carrying out administrative work, project man
 - OpenVPN / IPSec *(interconnection of different server sites with each other)*
 - Proxmox Mail Gateway *()*
 - Proxmox Backup Server *()*
-- Zabbix
+- Zabbix *(network and application monitoring platform)*
 - Nginx / Nginx Proxy Manager  *(reverse proxy, SSL termination, client-side certificate authentication, certificate management)*
-- Docker / Portainer *()*
+- Docker / Portainer *(application containers / container management system)*
 - Boring Proxy / frp / Zero Tier *()*
-- MSSQL
-- MariaDB / Percona
-- PostgreSQL / Percona
-- MongoDB
-- InfluxDB
-- Grafana
-- Redis
-- Kafka / Confluent
-- Greylog
-- Sentry
-- SSIS
-- SSAS
+- Microsoft SQL Server *(relational database)*
+- MariaDB *(relational database)*
+- PostgreSQL *(relational database)*
+- MongoDB *(document-oriented database)*
+- InfluxDB *(time series database)*
+- Grafana *(analytics & monitoring solution)*
+- Redis *(in-memory data structure store)*
+- Kafka / Confluent *(distributed event streaming platform)*
+- Greylog *(log management solution)*
+- Sentry *(application monitoring platform)*
+- SSIS ETL *(SQL Server Integration Services)*
+- SSAS BI *(SQL Server Analysis Services)*
 
 </details>
 
@@ -135,7 +135,7 @@ I take care of and customize application servers.
 - Invoice Ninja
 - Jitsi
 - Gitlab
-- Sendy / OpenEMM
+- Sendy / OpenEMM *(newsletter application / email marketing platform)*
 
 </details>
 
