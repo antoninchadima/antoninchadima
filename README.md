@@ -80,7 +80,7 @@ My ultimate hobby is building servers.
 - We were limited by the tiny budget, but there were no compromises
 - The lack of a redundant power supply is balanced by SW high availability
 - Fitting the given task and in the given space I managed to create the most punk server assembly *(judge for yourself)*
-- Find Waldo in the picture *(it's the backup server)*
+- Find Waldo in the picture *(it's the backup server)*, the picture shows a total of six servers
 
 <img src="https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg" width="45%" />
 <img src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
