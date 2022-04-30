@@ -145,13 +145,13 @@ I take care of and customize application servers.
 As a team leader of SW developers and a project manager, I did manage several projects.
 
 - Sports Betting platform
-- Matatu
-- MOT
-- Virtual Soccer
-- Odds monitoring
-- SSIS ETL
-- SSAS BI
-- Reporting system (.NET back)
+- Matatu *(ugandian card game)*
+- MOT *(desktop and mobile app for managing hardware on branches and repair workflow)*
+- Virtual Soccer *(virtual sport betting)*
+- Odds monitoring *(adjusting odds)*
+- SSIS ETL *(SQL Server Integration Services)*
+- SSAS BI *(SQL Server Analysis Services)*
+- Reporting system *(.NET backend, Angular frontend, Kendo UI libraries)*
 
 </details>
 
