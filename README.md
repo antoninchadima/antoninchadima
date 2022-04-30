@@ -61,8 +61,8 @@
 - David Mádle *(senior Angular developer)*
 - Jan Macík *(senior DB specialist)*
 - Milan Kunderlík *(senior system administrator)*
-- Ondřej Hromádka *(analyst, project manager)*
-- Michal Černošek *(support, tester)*
+- Ondřej Hromádka *(analyst & project manager)*
+- Michal Černošek *(support & tester)*
 
 </details>
 
