@@ -78,7 +78,8 @@ My ultimate hobby is building servers.
 - Servers are 8 x Intel(R) Xeon(R) CPU E3-1230 v6 @ 3.50GHz with 64GB RAM *(Supermicro X11SSL-F)*
 - The servers cost less than 500USD *(most money was spent on storage)*
 - We were limited by the tiny budget, but there were no compromises
-- The lack of a redundant power supply is balanced by SW high availability 
+- The lack of a redundant power supply is balanced by SW high availability
+- Fitting the given task and in the given space I managed to create the most punk server assembly *(judge for yourself)*
 
 <img src="https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg" width="45%" />
 <img src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
