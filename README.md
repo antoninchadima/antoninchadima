@@ -76,7 +76,7 @@ I'm in charge of six other people, carrying out administrative work, project man
 
 - SWITCH configuration
 - IPMI
-- Proxmox Virtual Environment
+- Proxmox Virtual Environment LXC / KVM
 - CEPH
 - InfluxdDB and Grafana
 - click on the image to get online data
@@ -95,14 +95,31 @@ I'm in charge of six other people, carrying out administrative work, project man
 - DNS / DHCP *(local network management)*
 - Wireguard *(connecting developers and administrators to the server room network)*
 - OpenVPN / IPSec *(interconnection of different server sites with each other)*
-- Proxmox Mail Gateway
-- Proxmox Backup Server
+- Proxmox Mail Gateway *()*
+- Proxmox Backup Server *()*
+- Zabbix
 - Nginx / Nginx Proxy Manager  *(reverse proxy, SSL termination, client-side certificate authentication, certificate management)*
+- Docker / Portainer *()*
+- Boring Proxy / frp / Zero Tier *()*
+- MSSQL
+- MariaDB / Percona
+- PostgreSQL / Percona
+- MongoDB
+- InfluxDB
+- Grafana
+- Redis
+- Kafka / Confluent
+- Greylog
+- Sentry
+- SSIS
+- SSAS
 
 </details>
 
 <details closed>
 <summary>Applications:</summary>
+
+I take care of and customize application servers.
 
 - Redmine *(project management web application)*
 - XWiki *(enterprise wiki platform)*
@@ -110,6 +127,12 @@ I'm in charge of six other people, carrying out administrative work, project man
 - Nextcloud Hub *(content collaboration platform)*
 - ONLYOFFICE Docs *(online editor for text documents, spreadsheets, and presentations)*
 - iRedMail *(mail server platform with webmail, calendar, contacts and activesync)*
+- Wordpress *()*
+- Matomo
+- Invoice Ninja
+- Jitsi
+- Gitlab
+- Sendy / OpenEMM
 
 </details>
 
@@ -125,6 +148,7 @@ As team leader of SW developers and a project manager, I did manage several proj
 - Odds monitoring
 - SSIS ETL
 - SSAS BI
+- Reporting system 
 
 </details>
 
