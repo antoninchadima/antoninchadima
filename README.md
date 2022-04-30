@@ -17,6 +17,8 @@
 
 📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
 
+💬 Ask me about anything [here](https://github.com/antoninchadima/antoninchadima/issues)
+
 ## 🛠️ Some Systems and Tools I Use:
 
 *(alphabetically)*
