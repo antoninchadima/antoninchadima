@@ -1,6 +1,7 @@
+<code>
+  
 <img align="right" src="https://c.tenor.com/ZpMn_7kHlz0AAAAC/who-the-hell-are-you-arnold-schwarzenegger.gif" width="50%" />
 
-<code>
 
 # 👋 Hi, I’m Antonín Chadima
 
@@ -121,7 +122,8 @@
 - Left social media and I'm now using my own servers and services instead.
 - Excited [📷 paddler](https://user-images.githubusercontent.com/3483314/166096886-9b07cf8b-17e1-498a-bf1c-92df7c5010ba.jpg) and [📷 hiker](https://user-images.githubusercontent.com/3483314/166096856-0acc4753-f790-48fc-95f7-5c2ff276b689.jpg).
 
-</code>
 <p  align="center">
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=antoninchadima.antoninchadima&color=00cf00" />
 </p>
+
+</code>
