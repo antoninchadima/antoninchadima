@@ -32,6 +32,8 @@
 
 ## 📋 I’m currently managing
 
+click to expand
+
 <details closed>
   <summary>IT team:</summary>
   another 5 team members
