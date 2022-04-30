@@ -2,9 +2,11 @@
 
 ### 👋 Hi, I’m Antonín Chadima
 
-- IT director
+- Team Leader
+- IT project manager
 - Systems analyst
-- IT technician
+- HW technician
+- System administrator
 - Network engineer
 
 🛠️ Some Systems and Tools I Use:
