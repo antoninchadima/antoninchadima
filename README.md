@@ -164,6 +164,8 @@ As a team leader of SW developers and a project manager, I did manage several pr
 - Left social media, and I'm now using my servers and services instead.
 - Excited [📷 paddler](https://user-images.githubusercontent.com/3483314/166096886-9b07cf8b-17e1-498a-bf1c-92df7c5010ba.jpg) and [📷 hiker](https://user-images.githubusercontent.com/3483314/166096856-0acc4753-f790-48fc-95f7-5c2ff276b689.jpg).
 
+---
+
 <p  align="center">
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=antoninchadima.antoninchadima&color=00cf00" />
 </p>
