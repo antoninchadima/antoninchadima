@@ -92,7 +92,7 @@ I'm in charge of six other people, carrying out administrative work, project man
 <details closed>
 <summary>Systems:</summary>
 
-I run systems to support the running of applications written by developers and other internally run applications
+I run systems to support the running of applications written by developers and other internally run applications.
 
 - Firewall *(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)*
 - DNS / DHCP *(local network management)*
