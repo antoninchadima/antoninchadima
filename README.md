@@ -30,7 +30,7 @@
 
 📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
 
-## I’m currently managing
+## 📋 I’m currently managing
 
 <details closed>
   <summary>IT team:</summary>
