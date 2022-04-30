@@ -11,7 +11,7 @@
 - Network engineer
 - System administrator
 
-🙊 I speak Czech, English and German
+🤐 I speak Czech, English and German
 
 🏎️ I have a driver's license B
 
