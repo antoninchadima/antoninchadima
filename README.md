@@ -93,5 +93,5 @@
 - KVM PCIe passthrough pioneer for server and desktop use.
 - OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid little MikroTik router)*.
 - IoT and Smart Home guru.
-- Author of the punk servers band *([📷 cluster](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) of less then 500USD [📷 servers](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) with SW HAand Ceph)*.
+- Author of the punk servers band *([📷 cluster](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) of less then 500USD [📷 servers](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) with SW HA and Ceph)*.
 - Left social media and I'm now using my own servers and services instead.
