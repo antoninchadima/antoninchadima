@@ -169,8 +169,9 @@ As a team leader of SW developers and a project manager, I did manage several pr
 ---
 
 - Running ChromeOS *(using project Brunch)* and Manjaro *(in a LinuxLoops environment)* on a regular [📷 ASUS ZenBook](https://user-images.githubusercontent.com/3483314/166095249-c7ec2b62-d6ee-4898-9903-4e26f9f48d6a.jpg)! *(Thanks to Google, I don't need Hackintosh anymore.)*
-- Using NoMachine NX to connect to different virtualized desktops on my servers.
+- Using NoMachine NX to connect to different virtualized desktops on my servers *(thin client)*.
 - KVM PCIe passthrough pioneer for server and desktop use.
+- Using a home server for Wii, PS2, PS3, and Xbox emulation.
 - OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid, little MikroTik router)*.
 - IoT and Smart Home guru.
 - Dreaming dreams in [📷 PlantUML](https://www.plantuml.com/plantuml/png/TP4zKiCm48LxdKBZFeLb5wJB00r588FvQT88UqC4YfHnP3C9mn5o0CgK53c5mxsGlSA821fxt_UaNQ_VQ6LuQQg59BdKLK4lb85IWI5A5q37zh68AL_Hg2lfxUGiyYpcMLTigkx5JD1iQJjoT-nQLxOXrkUN6HRjCUpQNRZJ1Pzf1ODaU39qzx8NOVAvgw6ieOnzmNoH-2Bj-c8zLVMcQ7OILFD1brBdytL4LaQN_17evFEzsI_rq_EQlX9AHRluZEVMq8TjipVyi8t_uUmNlm49jTY0XVrsx6UxJF9Qy8YyzPDFOLEKpSuSpHth1o7Z4B4G9I5AxO3lyEXWuA8B4IFejC25Wxm5_IheMDI5rYjCpjCk9dnr0BCA20j84f3K8ru8Vr96kazf8Vwt8-tFQnqypte_ET8f6O4ggeNy0W00) and Markdown syntax.
