@@ -69,13 +69,18 @@ I'm in charge of six other people, carrying out administrative work, project man
 <details closed>
 <summary>Hardware:</summary>
 
+My hobby is building servers. 
+
 - the punk servers
 - SWITCH configuration
 - IPMI
-
+<img src="https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg" width="45%" />
+<img src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
 </details>
 <details closed>
 <summary>Hosts:</summary>
+
+I do administer the hosts systems running containers and virtual machines.
 
 - Servers are arranged in high availability cluster using Proxmox Virtual Environment
 - Servers are using Ceph storage in a 40Gb/s QSFP+ mesh network
@@ -92,7 +97,7 @@ I'm in charge of six other people, carrying out administrative work, project man
 <details closed>
 <summary>Systems:</summary>
 
-I run systems to support the running of applications written by developers and other internally run applications.
+I run these systems to support the running of applications written by developers or other internally run applications.
 
 - Firewall *(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)*
 - DNS / DHCP *(local network management)*
@@ -122,7 +127,7 @@ I run systems to support the running of applications written by developers and o
 <details closed>
 <summary>Applications:</summary>
 
-I take care of and customize application servers.
+I take care of and customize these applications.
 
 - Redmine *(project management web application)*
 - XWiki *(enterprise wiki platform)*
