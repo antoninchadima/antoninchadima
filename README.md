@@ -105,7 +105,7 @@
 
 ---
 
-- Running [ChromeOS](https://www.google.com/chromebook/chrome-os/) *(using project [Brunch](https://github.com/sebanc/brunch))* and [Manjaro](https://manjaro.org/) *(in [LinuxLoops](https://github.com/sebanc/linuxloops) environment)* on a regular [📷 ASUS ZenBook](https://user-images.githubusercontent.com/3483314/166095249-c7ec2b62-d6ee-4898-9903-4e26f9f48d6a.jpg)! *(Thank you Google, I don't need [Hackintosh](https://www.tonymacx86.com/) anymore.)*
+- Running ChromeOS *(using project Brunch)* and Manjaro) *(in LinuxLoops environment)* on a regular [📷 ASUS ZenBook](https://user-images.githubusercontent.com/3483314/166095249-c7ec2b62-d6ee-4898-9903-4e26f9f48d6a.jpg)! *(Thank you Google, I don't need Hackintosh anymore.)*
 - Using [NoMachine](https://www.nomachine.com/) NX to connect to different desktops on my servers.
 - KVM PCIe passthrough pioneer for server and desktop use.
 - OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid little MikroTik router)*.
