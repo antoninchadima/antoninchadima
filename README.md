@@ -77,7 +77,7 @@ My ultimate hobby is building servers.
 - A 47TB Ceph storage is connected using a direct QSFP+ 40Gb/s network *(without a switch)*
 - Servers are 8 x Intel(R) Xeon(R) CPU E3-1230 v6 @ 3.50GHz with 64GB RAM *(Supermicro X11SSL-F)*
 - The servers cost less than 500USD *(most money was spent on storage)*
-- We were limited by the tiny budget, but there were no compromises in storage, memory, and computing power
+- We were limited by the tiny budget, but there were no compromises in conectivity, storage, memory, and computing power
 - The lack of a redundant power supply is balanced by SW high availability
 - Fitting the given task and in the given space I managed to create the most punk server assembly *(judge for yourself)*
 - Find Waldo in the picture *(it's the backup server)*, the picture shows a total of six servers
