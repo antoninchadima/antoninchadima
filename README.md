@@ -1,4 +1,4 @@
-<img align="right" src="https://giphy.com/gifs/filmeditor-will-ferrell-elf-xUySTIOsf7QxHx1gk0" width="50%" />
+<img align="right" src="https://c.tenor.com/ZpMn_7kHlz0AAAAC/who-the-hell-are-you-arnold-schwarzenegger.gif" width="50%" />
 
 # 👋 Hi, I’m Antonín Chadima
 
