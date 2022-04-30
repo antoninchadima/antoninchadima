@@ -54,7 +54,7 @@
 <details closed>
 <summary>IT team:</summary>
 
-I'm in charge of six other people, carrying out administrative work, project management, and and I'm motivating them.
+I'm in charge of six other people, carrying out administrative work, project management, and motivating them for better performance.
 
 - Ondřej Moravec *(senior .NET developer)*
 - David Mádle *(senior Angular developer)*
@@ -62,17 +62,21 @@ I'm in charge of six other people, carrying out administrative work, project man
 - Milan Kunderlík *(senior system administrator)*
 - Ondřej Hromádka *(analyst & project manager)*
 - Michal Černošek *(support & tester)*
+
+</details>
       
-   </details>
-   
-   <details closed>
-      <summary>Hardware:</summary>
+<details closed>
+<summary>Hardware:</summary>
+
       the punk servers
-   </details>
-   <details closed>
-      <summary>Hosts:</summary>
-      SWITCH configuration
-      IPMI
+
+</details>
+
+<details closed>
+<summary>Hosts:</summary>
+
+SWITCH configuration
+IPMI
       Proxmox Virtual Environment
       CEPH
       InfluxdDB and Grafana
@@ -85,55 +89,56 @@ I'm in charge of six other people, carrying out administrative work, project man
    
    <details closed>
       <summary>Systems:</summary>
-      <ul>
-         <li>Firewall <i>(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)</i></li>
-         <li>DNS / DHCP <i>(local network management)</i></li>
-         <li>Wireguard <i>(connecting developers and administrators to the server room network)</i></li>
-         <li>OpenVPN / IPSec <i>(interconnection of different server sites with each other)</i></li>
-         Proxmox Mail Gateway
-         Proxmox Backup Server
-         <li>Nginx / Nginx Proxy Manager  <i>(reverse proxy, SSL termination, client-side certificate authentication, certificate management)</i></li>
-      </ul>
-   </details>
-   
-   <details closed>
-      <summary>Applications:</summary>
-      <ul>
-         <li>Redmine <i>(project management web application)</i></li>
-         <li>XWiki <i>(enterprise wiki platform)</i></li>
-         <li>Mattermost <i>(communication, collaboration, and workflow orchestration platform)</i></li>
-         <li>Nextcloud Hub <i>(content collaboration platform)</i></li>
-         <li>ONLYOFFICE Docs <i>(online editor for text documents, spreadsheets, and presentations)</i></li>
-         <li>iRedMail <i>(mail server platform with webmail, calendar, contacts and activesync)</i></li>
-      </ul>
-   </details>
-   
-   <details closed>
-      <summary>Programmed</summary>
-      <ul>
-         <li>Redmine <i>(project management web application)</i></li>
-         <li>XWiki <i>(enterprise wiki platform)</i></li>
-         <li>Mattermost <i>(communication, collaboration, and workflow orchestration platform)</i></li>
-         <li>Nextcloud Hub <i>(content collaboration platform)</i></li>
-         <li>ONLYOFFICE Docs <i>(online editor for text documents, spreadsheets, and presentations)</i></li>
-         <li>iRedMail <i>(mail server platform with webmail, calendar, contacts and activesync)</i></li>
-      </ul>
-   </details>
-   
+
+- Firewall *(SNAT, DNAT, PAT and Port Forwarding, SQM QoS, Security)*
+- DNS / DHCP *(local network management)*
+- Wireguard *(connecting developers and administrators to the server room network)*
+- OpenVPN / IPSec *(interconnection of different server sites with each other)*
+- Proxmox Mail Gateway
+- Proxmox Backup Server
+- Nginx / Nginx Proxy Manager  *(reverse proxy, SSL termination, client-side certificate authentication, certificate management)*
+
+</details>
+
+<details closed>
+<summary>Applications:</summary>
+
+- Redmine *(project management web application)*
+- XWiki *(enterprise wiki platform)*
+- Mattermost *(communication, collaboration, and workflow orchestration platform)*
+- Nextcloud Hub *(content collaboration platform)*
+- ONLYOFFICE Docs *(online editor for text documents, spreadsheets, and presentations)*
+- iRedMail *(mail server platform with webmail, calendar, contacts and activesync)*
+
+</details>
+
+<details closed>
+<summary>Programmed</summary>
+
+- Sports Betting platform
+- Matatu
+- MOT
+- Virtual Soccer
+- Odds monitoring
+- SSIS ETL
+- SSAS BI
+
+</details>
+
 ---
-   
+
 - Running ChromeOS *(using project Brunch)* and Manjaro *(in a LinuxLoops environment)* on a regular [📷 ASUS ZenBook](https://user-images.githubusercontent.com/3483314/166095249-c7ec2b62-d6ee-4898-9903-4e26f9f48d6a.jpg)! *(Thanks to Google, I don't need Hackintosh anymore.)*
 - Using NoMachine NX to connect to different virtualized desktops on my servers.
 - KVM PCIe passthrough pioneer for server and desktop use.
 - OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid little MikroTik router)*.
 - IoT and Smart Home guru.
-- PlantUML and Markdown wizard.
+- Dreaming dreams in PlantUML and Markdown.
 - Author of the punk servers band *([📷 cluster](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) of less than 500USD [📷 servers](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) with SW HA and Ceph)*.
 - Left social media and I'm now using my servers and services instead.
 - Excited [📷 paddler](https://user-images.githubusercontent.com/3483314/166096886-9b07cf8b-17e1-498a-bf1c-92df7c5010ba.jpg) and [📷 hiker](https://user-images.githubusercontent.com/3483314/166096856-0acc4753-f790-48fc-95f7-5c2ff276b689.jpg).
 
-   <p  align="center">
-      <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=antoninchadima.antoninchadima&color=00cf00" />
-   </p>
+<p  align="center">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=antoninchadima.antoninchadima&color=00cf00" />
+</p>
 
 </code>
