@@ -21,8 +21,6 @@
 
 ## 🛠️ Some Systems and Tools I Use:
 
-🌱 I’m currently learning Ansible and AWX
-
 *(alphabetically)*
 
 </p>
@@ -42,7 +40,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg" align="left" width="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" align="left" width="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" align="left" width="40px" />
+</br>
+</br>
+</br>
+</br>
 </p>
+
+🌱 I’m currently learning Ansible and AWX
 
 ## 📋 I’m currently managing
 
