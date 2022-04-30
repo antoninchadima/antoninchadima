@@ -25,7 +25,23 @@
 ### I’m currently managing
 
 <details closed>
+  <summary>IT team:</summary>
+  another 5 team members
+</details>
+
+<details closed>
+  <summary>Hardware:</summary>
+  the punk servers
+</details>
+
+<details closed>
   <summary>Hosts:</summary>
+  SWITCH configuration
+   IPMI
+     Proxmox Virtual Environment
+  CEPH
+  InfluxdDB and Grafana
+  click on the image to get online data
 <img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="50%" />
 <img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="50%" />
 <img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" width="50%" />
@@ -39,9 +55,7 @@
   <li>DNS / DHCP <i>(local network management)</i></li>
   <li>Wireguard <i>(connecting developers and administrators to the server room network)</i></li>
   <li>OpenVPN / IPSec <i>(interconnection of different server sites with each other)</i></li>
-    switches
-    IPMI
-    Proxmox Virtual Environment
+ 
     Proxmox Mail Gateway
     Proxmox Backup Server 
   <li>Nginx / Nginx Proxy Manager  <i>(reverse proxy, SSL termination, client-side certificate authentication, certificate management)</i></li>
