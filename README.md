@@ -79,8 +79,8 @@ I'm in charge of six other people, carrying out administrative work, project man
 - IPMI
 - Proxmox Virtual Environment LXC / KVM
 - CEPH
-- InfluxdDB and Grafana
-- Click on the image to get online data
+- 
+- do you want to see some live data of my servers? **Click on the images to get online data!** *(it is done using InfluxDB and Grafana)*
 
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve1&from=1651301693577&to=1651323293577&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904855-adced836-4200-49e9-bdc3-29f49aaf7e72.png" width="45%" /></a>
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve2&from=1651301693577&to=1651323293577&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" /></a>
