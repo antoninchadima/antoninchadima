@@ -9,6 +9,10 @@
 - Network engineer
 - System administrator
 
+**🈺 I'm looking for a job opportunity 🈺**
+
+📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
+
 ## 🛠️ Some Systems and Tools I Use:
 
 </p>
@@ -25,10 +29,6 @@
 </br>
 
 🌱 I’m currently learning Ansible and AWX
-
-**🈺 I'm looking for a job opportunity 🈺**
-
-📫 antonin.chadima@gmail.com ☎️ +420 721 805 041
 
 ## 📋 I’m currently managing
 
