@@ -69,18 +69,24 @@ I'm in charge of six other people, carrying out administrative work, project man
 <details closed>
 <summary>Hardware:</summary>
 
-My hobby is building servers. 
+My ultimate hobby is building servers. 
 
-- the punk servers
-- SWITCH configuration
-- IPMI
+- With a very small budget we did manage to make the infrastructure from 1Gb/s ethernet and 10Gb/s SFP+ switches
+- Two independent 1Gb/s switches are used for corosync, another one for IPMI
+- 10Gb/s switches are used for internal LAN network
+- A 47TB Ceph storage is connected using a direct QSFP+ 40Gb/s network *(without a switch)*
+- Servers are 8 x Intel(R) Xeon(R) CPU E3-1230 v6 @ 3.50GHz with 64GB RAM *(Supermicro X11SSL-F)*
+- The servers cost less than 500USD *(most money was spent on storage)*
+- We were limited by the tiny budget, but there were no compromises
+- The lack of a redundant power supply is balanced by SW high availability 
+
 <img src="https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg" width="45%" />
 <img src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
 </details>
 <details closed>
 <summary>Hosts:</summary>
 
-I do administer the hosts systems running containers and virtual machines.
+I do administer the host's systems running containers and virtual machines.
 
 - Servers are arranged in high availability cluster using Proxmox Virtual Environment
 - Servers are using Ceph storage in a 40Gb/s QSFP+ mesh network
@@ -173,4 +179,7 @@ As a team leader of SW developers and a project manager, I did manage several pr
 
 ---
 
+<p  align="right">
+<sub><sup>Github monospace font hack by Antonín Chadima</sup></sub>
+</p>
 </code>
