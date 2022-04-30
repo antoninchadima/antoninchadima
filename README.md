@@ -1,4 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
+<img align="right" src="https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg" width="0%" />
+
 
 # 👋 Hi, I’m Antonín Chadima
 
@@ -91,4 +93,4 @@
 - KVM PCIe passthrough pioneer for server and desktop use.
 - OpenWRT enthusiast, flashing alternative firmware on any device *(be afraid little MikroTik router)*.
 - IoT and Smart Home guru.
-- Author of the punk servers band *([cluster](https://user-images.githubusercontent.com/3483314/166092487-d26172d0-51f4-4ff9-bc1a-73c36dfef166.jpg) of less then 500USD [servers](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) with SW HA)*.
+- Author of the punk servers band *([cluster](https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg) of less then 500USD [servers](https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg) with SW HA)*.
