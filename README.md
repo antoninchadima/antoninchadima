@@ -13,7 +13,7 @@
 
 🙊 I speak Czech, English and German
 
-🏎️ I have a driver's license B.
+🏎️ I have a driver's license B
 
 **🈺 I'm looking for a job opportunity 🈺**
 
