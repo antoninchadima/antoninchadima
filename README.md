@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="45%" />
 
-### 👋 Hi, I’m Antonín Chadima
+# 👋 Hi, I’m Antonín Chadima
 
 - Team Leader
 - IT project manager
@@ -9,7 +9,8 @@
 - Network engineer
 - System administrator
 
-🛠️ Some Systems and Tools I Use:
+## 🛠️ Some Systems and Tools I Use:
+
 </p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" alt="redis" width="26px" style="padding-right:10px;" />
