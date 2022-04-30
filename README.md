@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/3483314/165919412-d30870d9-b6f8-46bc-b5fc-d62217defec5.jpg" width="50%" />
+<img align="right" src="https://giphy.com/gifs/filmeditor-will-ferrell-elf-xUySTIOsf7QxHx1gk0" width="50%" />
 
 # 👋 Hi, I’m Antonín Chadima
 
