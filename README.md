@@ -34,7 +34,7 @@
 
 ## 📋 I’m currently managing
 
-*click to expand*
+*(click to expand)*
 
 <details closed>
   <summary>IT team:</summary>
