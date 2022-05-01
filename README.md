@@ -135,7 +135,7 @@ I run these systems to support the applications written by developers or to supp
 <details closed>
 <summary>Applications:</summary>
 
-I take care of and customize these applications.
+At the moment, I take care of and customize these applications.
 
 - Redmine *(project management web application)*
 - XWiki *(enterprise wiki platform)*
