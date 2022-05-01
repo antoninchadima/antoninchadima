@@ -56,7 +56,7 @@
 <details closed>
 <summary>IT team:</summary>
 
-I'm in charge of six other people, carrying out administrative work, project management, and motivating them for better performance.
+I'm in charge of six other people, carrying out administrative work, project management, and I'm motivating them to perform better.
 
 - Ondřej Moravec *(senior .NET developer)*
 - David Mádle *(senior Angular developer)*
@@ -69,7 +69,7 @@ I'm in charge of six other people, carrying out administrative work, project man
 <details closed>
 <summary>Hardware:</summary>
 
-My ultimate hobby is building servers, testing them, and benchmarking.
+My ultimate hobby is building servers, testing them, and benchmarking them.
 
 - With a very small budget we did manage to make the infrastructure from 1Gb/s ethernet and 10Gb/s SFP+ switches
 - Two independent 1Gb/s switches are used for corosync, another one for IPMI
@@ -92,7 +92,7 @@ I do administer the host's systems running containers and virtual machines.
 
 - Servers are arranged in high availability cluster using Proxmox Virtual Environment
 - Servers are using Ceph storage in a 40Gb/s QSFP+ mesh network
-- Virtual servers are using LXC containers and KVM virtual machines
+- Virtual servers are using LXC containers and KVM virtual machines *(to save some resources, we are using lot of containers)*
 - Do you want to see some live data from my servers?
 - **Click on the images to get online data!** *(visualization is using InfluxDB and Grafana)*
 
