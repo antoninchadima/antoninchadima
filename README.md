@@ -79,7 +79,7 @@ My ultimate hobby is building servers, testing them, and benchmarking.
 - The servers cost less than 500USD *(most money was spent on storage)*
 - We were limited by the tiny budget, but there were no compromises in conectivity, storage, memory, and computing power
 - The lack of a redundant power supply is balanced by SW high availability
-- Fitting the given task and in the given space I managed to create the most punk server assembly *(judge for yourself)*
+- Fitting the given task, using the given space I managed to create the most punk server assembly *(judge for yourself)*
 - Find Waldo in the picture *(it's the backup server)*, the picture shows a total of six servers
 
 <img src="https://user-images.githubusercontent.com/3483314/166092673-fc17ee90-5659-4cc3-8173-8c30f5ef4317.jpg" width="45%" />
