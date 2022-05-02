@@ -128,8 +128,8 @@ I run these systems to support the applications written by developers or to supp
 - Kafka / Confluent *(distributed event streaming platform)*
 - Greylog *(log management solution)*
 - Sentry *(application monitoring platform)*
-- SSIS ETL *(SQL Server Integration Services)*
-- SSAS BI *(SQL Server Analysis Services)*
+- SSIS ETL *(Microsoft SQL Server Integration Services)*
+- SSAS BI *(Microsoft SQL Server Analysis Services)*
 
 </details>
 <details closed>
