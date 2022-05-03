@@ -100,6 +100,8 @@ I do administer the host's systems running containers and virtual machines.
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve2&from=1651301693577&to=1651323293577&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904830-2d9d85c4-2fb4-49ae-8af8-037907e97320.png" width="45%" /></a>
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve3&from=1651301693577&to=1651323293577&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904812-3257ead7-9381-468e-b27e-b81583769f10.png" width="45%" /></a>
 <a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox-png?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve4&from=1651301914565&to=1651323514565&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/165904742-9c4d6a03-efdf-4023-9a40-bc984126dc27.png" width="45%" /></a>
+<a href="https://grafana.itliga.cz/render/d-solo/IfgdXjtnk/proxmox?orgId=1&refresh=5s&var-dsProxmox=InfluxDB&var-Bucket=proxmox&var-server=pve5&from=1651538004426&to=1651559604426&theme=light&panelId=21&width=1000&height=500&tz=Europe%2FPrague"><img src="https://user-images.githubusercontent.com/3483314/166412985-ca2d0ab7-f2cc-476d-818e-4cb720f31dd0.png" width="45%" /></a>
+
 
 </details>
 <details closed>
