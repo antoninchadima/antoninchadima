@@ -5,6 +5,7 @@
 **Implemented enhancements:**
 - [ ] [OpenWISP](https://openwisp.org/) (Open Source Network Management System) [Ansible install](https://github.com/openwisp/ansible-openwisp2)
 - [ ] [CrowdSec](https://crowdsec.net/) (Open source collaborative Intrusion Prevention System)
+- [ ] CrowdSec nginx - captcha
 
 ## 1.0.0 (2022-05-16)
 
