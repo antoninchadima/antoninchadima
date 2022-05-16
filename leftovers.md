@@ -20,20 +20,17 @@ Poté na serveru vytvořte klíč
 
 ```bash
 ssh-keygen -t rsa
-Na serveru vytvořte adresář na klientovi
 ssh someuser@192.168.122.12 mkdir -p .ssh
-Zkopírování  klíče na jiný server
-cat .ssh/id_rsa.pub | ssh someuser@192.168.122.12 'cat >> .ssh/authorized_keys'
-chmod the directories
-ssh someuser@192.168.122.12 "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
-cd /home
-chown -R user:user user
 ```
 
-Zkopírování klíče na jiný server
-
 ```bash
-cat authorized_keys | ssh someuser@192.168.122.25 'cat >> .ssh/authorized_keys'
+Zkopírování  klíče
+cat .ssh/id_rsa.pub | ssh someuser@192.168.122.12 'cat >> .ssh/authorized_keys'
+ssh someuser@192.168.122.12 
+chmod 700 .ssh
+chmod 640 .ssh/authorized_keys"
+cd /home
+chown -R user:user user
 ```
 
 **Root and password login:**
