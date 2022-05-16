@@ -7,7 +7,8 @@
 - [ ] [CrowdSec](https://crowdsec.net/) (Open source collaborative Intrusion Prevention System)
 - [x] Snip-IT
 - [ ] crowdsec-nginx-bouncer + captcha
-- [ ] crowdsec-firewall-bouncer openwrt
+- [ ] crowdsec-firewall-bouncer openwrt - doplnit navod
+- [ ] stubby
 
 ## 1.0.0 (2022-05-16)
 
