@@ -49,7 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="40px" />
 </p>
 
-🌱 [I’m currently learning](https://github.com/antoninchadima/antoninchadima/blob/main/CHANGELOG.md) <sub><sup>Changelog</sup></sub>
+🌱 [I’m currently learning](https://github.com/antoninchadima/antoninchadima/blob/main/CHANGELOG.md) (Learning Journal)
 
 
 ## 📋 I’m currently managing
