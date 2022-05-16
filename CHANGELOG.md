@@ -5,7 +5,7 @@
 **Implemented enhancements:**
 - [ ] [OpenWISP](https://openwisp.org/) (Open Source Network Management System) [Ansible install](https://github.com/openwisp/ansible-openwisp2)
 - [ ] [CrowdSec](https://crowdsec.net/) (Open source collaborative Intrusion Prevention System)
-- [x] Snip-IT
+- [x] Snip-IT https://geekflare.com/best-it-asset-management-software/
 - [x] AdGuard Home
 - [ ] crowdsec-nginx-bouncer + captcha
 - [ ] crowdsec-firewall-bouncer openwrt - doplnit navod
