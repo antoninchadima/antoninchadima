@@ -5,7 +5,7 @@
 **Implemented enhancements:**
 - [ ] [OpenWISP](https://openwisp.org/) (Open Source Network Management System) [Ansible install](https://github.com/openwisp/ansible-openwisp2)
 - [ ] [CrowdSec](https://crowdsec.net/) (Open source collaborative Intrusion Prevention System)
-- [+] Snip-IT
+- [x] Snip-IT
 - [ ] crowdsec-nginx-bouncer + captcha
 - [ ] crowdsec-firewall-bouncer openwrt
 
