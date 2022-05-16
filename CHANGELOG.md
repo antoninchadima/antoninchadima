@@ -2,7 +2,7 @@
 
 ## Unreleased (2022-05-16)
 
--[ ] [OpenWISP](https://openwisp.org/) (Open Source Network Management System)
+- [ ] [OpenWISP](https://openwisp.org/) (Open Source Network Management System)
 
 ## 1.0.0 (2022-05-16)
 
