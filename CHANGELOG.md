@@ -1,6 +1,6 @@
 # ChangeLog of Me
 
-Learning Journal
+<sub><sup>Learning Journal</sup></sub>
 
 ## Unreleased (2022-05-16)
 
