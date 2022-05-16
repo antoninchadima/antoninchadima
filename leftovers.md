@@ -42,6 +42,8 @@ PermitRootLogin no
 PasswordAuthentication no  
 ChallengeResponseAuthentication no
 
+**Generování certifikátu s vlastním podpisem pomocí OpenSSL**
+
 1. Otevřeme si příkazovou řádku
 1. Zadáme příkaz -  `openssl req -newkey rsa:2048 -nodes -  keyout [ zadáme své jméno ].key -x509 -days 365 -out [zadáme své jméno ].crt`      Příklad : **openssl req -newkey rsa:2048 -nodes -keyout Michal-Cernosek.key -x509 -days 365 -out Michal-Cernosek.crt**
 1. Poté to na nás vyhodí zadání údajů, odklikáme entrem, vyplníme jen **Common Name** a **Email Address**
