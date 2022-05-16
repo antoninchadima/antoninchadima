@@ -17,9 +17,9 @@
 
 🏎️ I have a driver's license B
 
-<!╌
+<!---
 **🈺 I'm looking for a job opportunity 🈺**
-╌>
+-->
 
 📫 antonin.chadima@gmail.com
 
