@@ -8,16 +8,13 @@ apt install -y sudo apt-utils apt-transport-https software-properties-common hto
 
 **Přidání uživatele, klíče a ssh přihlášení:**
 
-heslo uživatele user je kdmkdm.999
-
 ```bash
 adduser user
 gpasswd -a user sudo
 ```
 
-**Setup ssh passwordless login**
+**Nastavení ssh pro přihlášení bez hesla**
 
-Nastavení přihlášení bez hesla do ssh  
 Vytvořte uživatele, který se může přihlásit pomocí ssh na jiný server  
 Poté na serveru vytvořte klíč
 
@@ -47,6 +44,3 @@ sshd_config je upraven:
 PermitRootLogin no  
 PasswordAuthentication no  
 ChallengeResponseAuthentication no
-
-**Nastavení mail relay na novém kontejneru nebo virtuálu:**  
-[[Nastavení mail relay|doc:Main.Mail forwarding setup.WebHome]]
