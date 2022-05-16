@@ -1,6 +1,4 @@
-# ChangeLog of Me
-
-<sub><sup>Learning Journal</sup></sub>
+# ChangeLog of Me <sub><sup>Learning Journal</sup></sub>
 
 ## Unreleased (2022-05-16)
 
