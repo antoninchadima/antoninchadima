@@ -17,7 +17,9 @@
 
 🏎️ I have a driver's license B
 
+<!╌
 **🈺 I'm looking for a job opportunity 🈺**
+╌>
 
 📫 antonin.chadima@gmail.com
 
@@ -186,6 +188,6 @@ As a team leader of SW developers and a project manager, I did manage several pr
 ---
 
 <p  align="right">
-<sub><sup>Github monospace font hack by Antonín Chadima</sup></sub>
+<sub><sup>Last change 2022-05-16</sup></sub>
 </p>
 </code>
