@@ -30,8 +30,7 @@ cd /home
 chown -R user:user user
 ```
 
-_log in without passwd_  
-_To copy authorized key to another server_
+Zkopírování klíče na jiný server
 
 ```bash
 cat authorized_keys | ssh someuser@192.168.122.25 'cat >> .ssh/authorized_keys'
