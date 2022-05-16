@@ -8,9 +8,10 @@
 ## 1.0.0 (2022-05-16)
 
 
-
+<sub><sup>
 **Implemented enhancements:**
 **Fixed bugs:**
 **Closed issues:**
 **Merged pull requests:**
 [Full Changelog](https://github.com/antoninchadima/antoninchadima/odkaz/)
+</sup></sub>
