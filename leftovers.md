@@ -41,3 +41,9 @@ sshd_config je upraven:
 PermitRootLogin no  
 PasswordAuthentication no  
 ChallengeResponseAuthentication no
+
+1. Otevřeme si příkazovou řádku
+1. Zadáme příkaz -  `openssl req -newkey rsa:2048 -nodes -  keyout [ zadáme své jméno ].key -x509 -days 365 -out [zadáme své jméno ].crt`      Příklad : **openssl req -newkey rsa:2048 -nodes -keyout Michal-Cernosek.key -x509 -days 365 -out Michal-Cernosek.crt**
+1. Poté to na nás vyhodí zadání údajů, odklikáme entrem, vyplníme jen **Common Name** a **Email Address**
+1. Nyní musíme spojit certifikáty, zadáme tento příkaz `openssl pkcs12 -inkey [zadáme své jméno].key -in [zadáme své jméno].crt -export -out [zadáme své jméno].p12`    Příklad : **openssl pkcs12 -inkey Michal-Cernosek.key -in Michal-Cernosek**.crt -export -out Michal-Cernosek.p12
+1. Máme vytvořeno
